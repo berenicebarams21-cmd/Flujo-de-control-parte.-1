@@ -10,7 +10,7 @@ Desarrollar un programa que utilice estructuras de decisión (if y else) para ca
 
 Funcionamiento.
 
-El usuario ingresa el sueldo mensual.
-El programa calcula el sueldo anual.
-Determina si el empleado debe pagar ISR.
-Muestra el sueldo anual y el monto del ISR correspondiente.
+-El usuario ingresa el sueldo mensual.
+-El programa calcula el sueldo anual.
+-Determina si el empleado debe pagar ISR.
+-Muestra el sueldo anual y el monto del ISR correspondiente.
