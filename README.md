@@ -21,4 +21,6 @@ Funcionamiento.
 Lenguaje utilizado.
 C++
 
+  ![image alt](https://github.com/berenicebarams21-cmd/Flujo-de-control-parte.-1/blob/e6f4be5545fd1216e56c6c981838e2241416c75a/Screenshot_20260728-173402.jpg)
 
+  ![image alt]
